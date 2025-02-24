@@ -7,14 +7,11 @@ Este repositório contém uma coleção de códigos Python que demonstram a apli
 ## Conceitos Praticados
 
 ### 1. **Funções**
-   - Definição e uso de funções para modularizar o código e facilitar a reutilização.
-
 ---
-
 ### 2. **Estruturas de Controle**
-   - **Loops**: Uso de `while True` para repetir a execução até que o usuário decida sair e `for` para iterar sobre intervalos ou listas.
-   - **Condicionais**: Uso de `if`/`elif`/`else` para tomar decisões com base em condições.
-   - **Interrupção de Loops**: Uso de `break` para sair de loops e `continue` para pular para a próxima iteração.
+   - **Loops**
+   - **Condicionais**
+   - **Interrupção de Loops**
 
 ---
 
